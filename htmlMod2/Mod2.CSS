@@ -14,7 +14,7 @@ h1{
 }
 
 section{
-	border: 1px black;
+	border: 1px solid black;
 	overflow: auto;
 	background-color: dimgrey;
 	height: 200px;
@@ -22,7 +22,7 @@ section{
 
 h3{
 	float: right;
-	border: 1px black;
+	border: 1px solid black;
 	margin-top: 0px;
 	margin-bottom: 15px;
 	color: mauve;
